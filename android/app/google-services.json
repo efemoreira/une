@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669936374722",
+    "project_id": "une-app-soc",
+    "storage_bucket": "une-app-soc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669936374722:android:050326f72c55a938203c5b",
+        "android_client_info": {
+          "package_name": "com.une_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669936374722-uor7a73e3nfe83qj97kik1n37q63m3d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.une_app",
+            "certificate_hash": "98d6655214349704cb2b7b2ffd7c8c38ec3966ee"
+          }
+        },
+        {
+          "client_id": "669936374722-68d0dvbijeibqkve6pqn81a13udslock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFAuWLSZ_87FWuWSaIa3C97BWXIhWbZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669936374722-68d0dvbijeibqkve6pqn81a13udslock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
